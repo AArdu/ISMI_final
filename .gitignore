@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data folder
+data/
+
+# results folder
+*.h5
+# results_1st/*.h5
+# results_2nd/*.h5
+# results_1st-2F/*.h5
+# results_2nd-2F/*.h5
